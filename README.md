@@ -2,9 +2,9 @@
 
 Purpose of the this coding challenge is to write a code that make a CSS Grid.
 
-- 
+- https://yhekim.github.io/Grid-Works-for-in-Clarusway/
 
-- ![gif](https://raw.githubusercontent.com/yhekim/My-Portfolio-Projects/main/my_portfolio_projects.gif)
+- ![gif](https://raw.githubusercontent.com/yhekim/Grid-Works-for-in-Clarusway/main/Grid_Works.gif)
 
 
 ## Learning Outcomes
